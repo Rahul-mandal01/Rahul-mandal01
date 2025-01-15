@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rahul-mandal01)](https://git.io/streak-stats)
+
 <!--
 **Rahul-mandal01/Rahul-mandal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
