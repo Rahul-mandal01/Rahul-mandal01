@@ -13,7 +13,7 @@
 ---
 
 ### 🌟 About Me:
-- 🌱 **Currently Learning**: Next.js, Data Structures & Algorithms (DSA)
+- 🌱 **Currently Learning**: React 19, Data Structures & Algorithms (DSA)
 - 💬 **Ask Me About**: MERN Stack Development
 - 📫 **Reach Me At**: [rahulra16809999@gmail.com](mailto:rahulra16809999@gmail.com)
 
